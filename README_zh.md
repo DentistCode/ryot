@@ -19,9 +19,9 @@
 </div>
 
 <p align="center">
-    <a href="https://ryot.io" target="_blank">Pro features</a> •
-    <a href="https://docs.ryot.io" target="_blank">Installation</a> •
-    <a href="https://docs.ryot.io/configuration" target="_blank">Configuration</a> •
+    <a href="https://ryot.io" target="_blank">Pro版特性</a> •
+    <a href="https://docs.ryot.io" target="_blank">安装</a> •
+    <a href="https://docs.ryot.io/configuration" target="_blank">配置</a> •
     <a href="https://demo.ryot.io/_s/acl_vUMPnPirkHlT" target="_blank">Demo</a>
 </p>
 
@@ -40,11 +40,11 @@ Ryot 是本地部署的增强型 “豆瓣”，集成了健康记录功能。�
 
 ## 专业版
 
-Ryot 提供了两个版本：社区版、专业版。专业版提供了额外的附加组件，比如简介分享、猜你喜欢、增强型收集等。了解更多请点击 [这里](https://ryot.io).
+Ryot 提供了两个版本：社区版、专业版（Pro版）。Pro 版提供了额外的附加组件，比如简介分享、猜你喜欢、增强型收集等。了解更多请点击 [这里](https://ryot.io).
 
 ## 💻 Demo
 
-你可以在 demo 中试用专业版：[在线专业版实例](https://demo.ryot.io/_s/acl_vUMPnPirkHlT).
+你可以在 demo 中试用 Pro 版：[在线 Pro 版实例](https://demo.ryot.io/_s/acl_vUMPnPirkHlT).
 
 **注意**: demo 账号的数据每24小时重置一次。
 
