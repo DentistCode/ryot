@@ -1,7 +1,7 @@
 <h1 align="center">Ryot</h1>
 
 <h3 align="center">
-  A self hosted platform for tracking various facets of your life - media, fitness etc.
+  一个用于追踪生活中不同部分的自托管项目 -诸如媒体、健康等
 </h3>
 
 <br/>
