@@ -27,14 +27,18 @@
 
 <br/>
 
-Ryot (**R**oll **Y**our **O**wn **T**racker), 发音为"riot", 旨在成为您永远唯一需要的自托管追踪器!
+Ryot (**R**oll **Y**our **O**wn **T**racker, 发音为"riot"), 旨在成为您永远唯一需要的自托管追踪器!
 
-可以理解为：本地部署的“豆瓣”，集成了健身记录功能
+可以理解为：
 
 ## 给 `v7.*` 用户的重要提醒
 
 Ryot 目前已经更新至`v8.*`版本，你如果还处于`v7.*`版本, 请阅读
 [迁移指南](https://docs.ryot.io/migration.html#from-v7-to-v8) 来获取更新指引。
+
+## 📝 极简说明	
+
+Ryot 是本地部署的增强型 “豆瓣”，集成了健康记录功能。可以记录读过的书、追过的剧、玩过的游戏、做过的运动。
 
 ## 专业版
 
@@ -45,13 +49,6 @@ Ryot 提供了两个版本：社区版、专业版。专业版提供了额外的
 你可以在 demo 中试用专业版：[在线专业版实例](https://demo.ryot.io/_s/acl_vUMPnPirkHlT).
 
 **注意**: demo 账号的数据每24小时重置一次。
-
-## 📝 ELI5
-
-Imagine you have a special notebook where you can write down all the media you have
-consumed, like books you've read, shows you have watched, video games you have played or
-workouts you have done. Now, imagine that instead of a physical notebook, you have a
-special tool on your computer or phone that lets you keep track of all these digitally.
 
 ## 社区和支持
 
