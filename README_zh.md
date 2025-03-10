@@ -27,26 +27,24 @@
 
 <br/>
 
-Ryot (**R**oll **Y**our **O**wn **T**racker), pronounced "riot", aims to be the only self
-hosted tracker you will ever need!
+Ryot (**R**oll **Y**our **O**wn **T**racker), 发音为"riot", 旨在成为您永远唯一需要的自托管追踪器!
 
-## IMPORTANT NOTE FOR `v7.*` USERS
+可以理解为：本地部署的“豆瓣”，集成了健身记录功能
 
-If you were using `v7.*` of Ryot, please read the
-[migration guide](https://docs.ryot.io/migration.html#from-v7-to-v8) for instructions.
+## 给 `v7.*` 用户的重要提醒
 
-## Pro version
+Ryot 目前已经更新至`v8.*`版本，你如果还处于`v7.*`版本, 请阅读
+[迁移指南](https://docs.ryot.io/migration.html#from-v7-to-v8) 来获取更新指引。
 
-Ryot is available in two versions - community and pro. The pro version has additional
-features like profile sharing, recommendations, supercharged collections etc. Learn more
-about the pro version [here](https://ryot.io).
+## 专业版
+
+Ryot 提供了两个版本：社区版、专业版。专业版提供了额外的附加组件，比如简介分享、猜你喜欢、增强型收集等。了解更多请点击 [这里](https://ryot.io).
 
 ## 💻 Demo
 
-You can use the demo account on the pro instance using [this
-link](https://demo.ryot.io/_s/acl_vUMPnPirkHlT).
+你可以在 demo 中试用专业版：[在线专业版实例](https://demo.ryot.io/_s/acl_vUMPnPirkHlT).
 
-**NOTE**: The data in this demo account is reset every 24 hours.
+**注意**: demo 账号的数据每24小时重置一次。
 
 ## 📝 ELI5
 
@@ -55,34 +53,34 @@ consumed, like books you've read, shows you have watched, video games you have p
 workouts you have done. Now, imagine that instead of a physical notebook, you have a
 special tool on your computer or phone that lets you keep track of all these digitally.
 
-## Community and support
+## 社区和支持
 
-You can join the [Discord](https://discord.gg/D9XTg2a7R8) server for any help or questions.
-You can also open an issue on GitHub if you find any bugs or have feature requests.
+你可以加入 [Discord](https://discord.gg/D9XTg2a7R8) 服务器来获取帮助和提问。
+如果你找到了 bug 或者有新功能需求，你也可以在 Github 上开启一个 issue 。
+
 
 ## 💡 Why?
 
-- Existing solutions do not have very good UI.
-- Pretty graphs and summaries make everyone happy. Ryot aims to have a lot of them.
-- There is a lack of a good self-hosted fitness and health tracking solution.
+- 现阶段没有致臻完善的 UI。
+- 因为优雅的图标和总结使人心情愉悦，Ryot 旨在提供许多这样的功能。
+- 目前缺乏一个好的自托管健身和健康追踪解决方案。
 
-## 🚀 Features
+## 🚀 特性
 
 - ✅ [Supports](https://github.com/IgnisDa/ryot/discussions/4) tracking media
   and fitness
-- ✅ Import data from Goodreads, Trakt, Strong App [etc](https://docs.ryot.io/importing.html)
-- ✅ Integration with Jellyfin, Kodi, Plex, Emby, Audiobookshelf [etc](https://docs.ryot.io/integrations.html)
-- ✅ [Supports](https://docs.ryot.io/guides/authentication.html) OpenID Connect
+- ✅ 支持从 Goodreads、Trakt、Strong App [等](https://docs.ryot.io/importing.html) 导入数据
+- ✅ 支持从 Jellyfin, Kodi, Plex, Emby, Audiobookshelf [等](https://docs.ryot.io/integrations.html) 刮削数据
+- ✅ [Supports](https://docs.ryot.io/guides/authentication.html) OpenID 连接
 - ✅ Sends notifications to Discord, Ntfy, Apprise etc
-- ✅ Self-hosted
+- ✅ 自托管
 - ✅ PWA enabled
 - ✅ [Documented](https://app.ryot.io/backend/graphql) GraphQL API
-- ✅ Easy to understand UI
-- ✅ Lightning fast (written in Rust BTW)
-- ✅ Free and open-source
+- ✅ 易于理解的 UI
+- ✅ 轻量、迅速 (但写于 Rust )
+- ✅ 免费、开源
 
-## 🙏 Acknowledgements
+## 🙏 致谢
 
-Ryot is highly inspired by [MediaTracker](https://github.com/bonukai/MediaTracker) and other
-similar projects. Also a massive thanks to all the
+Ryot 高度受启发于 [MediaTracker](https://github.com/bonukai/MediaTracker) 和其他的相似项目。也非常感谢所有的
 [contributors](https://github.com/IgnisDa/ryot/graphs/contributors).
