@@ -4,7 +4,11 @@
   A self hosted platform for tracking various facets of your life - media, fitness etc.
 </h3>
 
+<div align="center">
+
 English | [中文](./README_zh.md)
+
+</div>
 
 <br/>
 
